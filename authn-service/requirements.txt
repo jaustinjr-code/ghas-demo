@@ -24,4 +24,4 @@ six==1.12.0
 urllib3==1.26.19
 Werkzeug==3.0.6
 django==4.2.18
-django-two-factor-auth==1.11
+django-two-factor-auth==1.12
